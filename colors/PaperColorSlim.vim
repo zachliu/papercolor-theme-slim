@@ -239,7 +239,7 @@ else
   highlight ModeMsg             guifg=#d7af5f      guibg=none     gui=none
   highlight MoreMsg             guifg=#d7af5f      guibg=none     gui=none
   highlight NonText             guifg=#585858      guibg=#1c1c1c  gui=none
-  highlight Normal              guifg=#d0d0d0      guibg=#1c1c1c  gui=none
+  highlight Normal              guifg=#d0d0d0      guibg=none     gui=none
   highlight NormalFloat         guifg=#c6c6c6      guibg=#303030  gui=none
   highlight NormalNC            guifg=#d0d0d0      guibg=#1c1c1c  gui=none
   highlight Pmenu               guifg=#c6c6c6      guibg=#303030  gui=none
